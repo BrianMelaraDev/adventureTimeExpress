@@ -1,14 +1,13 @@
-# Lil Uzi Tracker
+# Adventure Time Express
 
-This Full-Stack Application called the Uzi Tracker allows users to login and be welcomed to a user-friendly interface that allows users to track their favorite lil uzi or any songs for that matter. The day you listend to those songs are logged and you can add other days you listend to songs. With the use of MongoDB I am able to save user data and retrirve it back for the user when an edit is made. I am deploying the server with Express in Node.js. 
- 
+I created an Application including Adventure Time gifs asking the user which gif would best describe the feeling they have. When thr user chooses which gif they are best feeling the user will be prompted to a new page displaying a bunch of images from the show that are particularly humorous. I am deploying the server with the use of Express in Node.js.
 &emsp;
-![Screenshot](uzi.png)
+![Screenshot](adventureTime.png)
 
 ## How Its Made 
-**Languages used:** Html, CSS, Javascript, Node.js , MongoDB , Express
+**Languages used:** Html, CSS, Javascript, Node.js  , Express
 # What I Learned
-I learned how to save dates, messages and the user with the use of MongoDB and I was able to use that data and dislay it back to the user.
+I learned how Node.js works and how Express helps in making the process of serving up any files by targeting the folder it is in.
 ### My Other Projects 
 Check out some of my other work using the DOM!
 * [JDM Express](https://github.com/BrianMelaraDev/jdmPersonalExpress/blob/main/README.md)
